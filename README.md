@@ -60,7 +60,7 @@ This project is actively maintained by the community. Contributions, suggestions
 1. **Clone the Repository:**  
    Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/your_username/chinese-dictionary-analysis-ik.git
+   git clone https://github.com/junminhong/es-analysis-ik-zh-dict
    ```
 
 2. **Configure the Dictionary:**  
